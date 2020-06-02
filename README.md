@@ -8,6 +8,10 @@ El objetivo de esta tarea es analizar un video captado por una cámara en la cal
 determinar los potenciales riesgos de personas que no cumplen con el distanciamiento
 social.
 
+## Resultado Final
+
+https://youtu.be/_E2OrDLMQ3o
+
 ## Referencias:
 
 * https://github.com/KevenRFC/MaskDectector
