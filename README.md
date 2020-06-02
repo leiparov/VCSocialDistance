@@ -3,7 +3,12 @@
 
 Alumno: Leibnitz Pavel Rojas Bustamante
 
-## REFERENCIAS:
+## Objetivo
+El objetivo de esta tarea es analizar un video captado por una cámara en la calle y
+determinar los potenciales riesgos de personas que no cumplen con el distanciamiento
+social.
+
+## Referencias:
 
 * https://github.com/KevenRFC/MaskDectector
 
